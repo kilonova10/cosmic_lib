@@ -9,3 +9,6 @@ Key functions, tools and more for ML and signal processing
 
 - general data loading, transforming and saving utilities in PyTorch/Pandas/NumPy
 
+3. pattern_recognition.py
+
+- statistical learning approaches and functions for plotting, classifying and evaluating
